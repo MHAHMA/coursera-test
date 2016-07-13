@@ -133,7 +133,7 @@ iframe{
 	margin:20px;
 }
 .section5{
-	background-image: url(coursera-test/upwork1/css/Capture1.JPG);
+	background-image: url("coursera-test/upwork1/css/Capture1.JPG");
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: white;
