@@ -1,0 +1,148 @@
+body{
+	background-image: url(http://goo.gl/aHikae);
+}
+
+#nav1{
+	opacity: .5;
+	background-color: black;
+	border: none;
+	border-radius: 0;
+	height: 100px;	
+}
+.nav_span{
+	color: white;
+}
+.nav_span:hover , .nav_span:active{
+	color: #4d94ff;
+	border: 1px solid #4d94ff;
+	padding: 7px;
+	text-decoration: none;
+}
+.nav_ul{
+	margin-top: 25px;
+	font-size: .9em;
+}
+.blue_span{
+	color: #4d94ff;
+}
+.brand_span{
+	color: white;
+}
+#brand_div{
+	margin-top: 25px;
+}
+.section1{
+	margin-top: 100px;
+	margin-bottom: 60px;
+	width: 100%;
+	height: 100px;
+}
+.section2{
+	background-color: #4d94ff;
+}
+.p1{
+	text-align: center;
+	color: white;
+	height: 20px;
+	margin-bottom: 20px;
+}
+.p1 span{
+	background-color: black;
+	opacity: .5;
+	font-size: 2em;
+}
+.section2 h2{
+	color: white;
+	line-height: 60%;
+}
+hr{
+	width: 3%;
+	margin-left: 5px;
+	margin-top: 1px;
+}
+h4{
+	color: white;
+}
+.section2 p{
+	color: white;
+	margin: 5px;
+	margin-bottom: 55px;
+}
+.section3{
+	background-color: white;
+	color: grey;
+	margin-bottom: 0px;
+}
+.sec_span{
+	color: grey;
+}
+.sec_span:hover , .sec_span:active{
+	color: #4d94ff;
+	border: 1px solid #4d94ff;
+	padding: 7px;
+	text-decoration: none;
+}
+.section3 h2{
+	color: grey;
+	line-height: 60%;	
+	margin-top: 40px;
+}
+#sec_nav{
+	background-color: white;
+	border: none;
+	border-radius: 0;
+}
+.section3 hr{
+	border-color: grey;
+	width: 15%;
+	margin-left: 5px;
+	margin-top: 1px;
+}
+.section4{
+	margin-top: 0;
+	background-color: grey;
+	color: white;
+}
+.sectoin4 h2{
+	color: white;
+	line-height: 60%;	
+	margin-top: 40px;
+}
+.section4 hr{
+	border-color: white;
+	width: 10%;
+	margin-left: 5px;
+	margin-top: -5px;
+}
+.my_button{
+	text-decoration: none;
+	text-align: center;
+	border: 1px solid black;
+	color: black;
+	padding: 4px;
+	border-radius: 0;
+}
+.my_button:hover , .my_button:active {
+	border: 1px solid #4d94ff;
+	color: #4d94ff;
+	text-decoration: none;
+}
+iframe{
+	width: 40%;
+	height: 300px;
+	margin:20px;
+}
+.section5{
+	background-image: url(Capture1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+img{
+	margin-bottom: 20px;
+}
+footer{
+	background-color:  #00001a;
+	color: white;
+	text-align: center;
+}
