@@ -1,0 +1,54 @@
+body{
+	background-image: url(background.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#my_navbar{
+	background-color: #009900;
+	opacity: .8;
+	border: none;
+	border-radius: 0;
+}
+.my_brand{
+	color: white;
+}
+.my_menu{
+	color: white;
+}
+.my_menu:hover , .my_menu:active{
+	border: 1px solid black; 
+	border-radius: 10px;
+	color:black;
+	padding: 4px;
+}
+.my_div1{
+	height: 1000px;
+	background-color: #ff6666;
+	opacity: .8;
+	border: 1px solid black;
+	padding: 10px;
+	margin:20px;
+	color: white;
+}
+.p1{
+	margin: 20px;
+
+}
+.top_link{
+	font-size: 1.5em;
+	color: white;
+	border: 1px solid white;
+	border-radius: 10px;
+	padding: 5px;
+}
+.top_link:hover , .top_link:active{
+	border: none;
+	border-radius: 10px;
+	padding: 10px;
+	color: white;
+	background-color: #009900;
+}
+.center{
+ 	text-align:center;
+}
+
